@@ -1,0 +1,34 @@
+*{
+  margin:0; 
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+html{
+  background: url(./background.jpg);
+  background-repeat: none;
+  background-size: cover;
+}
+
+body{
+  height: 600px; 
+  width: 600px;
+  background-color: rgb(244, 184, 255);
+  border: 5px solid purple;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px;
+}
+
+header, section{
+  padding: 10px;
+}
+
+p.list{
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+li{
+  list-style: none;
+}
