@@ -11,24 +11,46 @@ html{
 }
 
 body{
-  height: 600px; 
+  height: 700px; 
   width: 600px;
   background-color: rgb(244, 184, 255);
   border: 5px solid purple;
   border-radius: 5px;
   padding: 15px;
   margin: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header, section{
   padding: 10px;
 }
 
+p{
+  font-size: 16px;
+}
+
 p.list{
   margin-top: 10px;
-  font-size: 16px;
+  font-weight: bold;
+}
+
+p.thanks{
+  margin-top: 10px;
 }
 
 li{
   list-style: none;
+}
+
+a{
+  text-decoration: none;
+  text-align: center;
+  color: white;
+}
+
+button{
+  margin-top: 10px;
+  font-size: 15px;
+  padding: 10px;
+  background-color: #bf2ccd;
 }
