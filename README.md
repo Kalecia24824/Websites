@@ -24,4 +24,4 @@ This is where all of my multi-page websites are located:
 Thank you for viewing my portfolio!
  
 ## 🏠 Back to Main Portfolio
-[← Back to my GitHub Profile](https://github.com/Kalecia24824)
+[← Back to Main](https://github.com/Kalecia24824)

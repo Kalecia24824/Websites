@@ -20,8 +20,8 @@ Here is the directory for all of my projects in the Pages Subfolder
 
 Thank you for viewing my portfolio!
 
-## 🌐 Back to Pages Homepage
-[← Back to Pages README](#)
+## 🌐 Back to Web Homepage
+[← Back to Web](https://github.com/Kalecia24824/Web)
  
 ## 🏠 Back to Main Portfolio
-[← Back to my GitHub Profile](https://github.com/Kalecia24824)
+[← Back to Main](https://github.com/Kalecia24824)
