@@ -1,5 +1,5 @@
 # 🌐 Websites:
-<em>Kalecia McNeal</em>
+#### by Kalecia McNeal
 Welcome to the Websites subsection of the Web folder! Here you can find all of my multi-page website projects. 
 
 ## 🧰 Tech Used in This Category
@@ -16,8 +16,8 @@ Here is the directory for all of my projects in the Websites Subfolder
 
 Thank you for viewing my portfolio!
 
-## 🌐 Back to Pages Home
-[← Back to Pages Home](#)
+## 🌐 Back to Pages Homepage
+[← Back to Pages README](#)
  
 ## 🏠 Back to Main Portfolio
 [← Back to my GitHub Profile](https://github.com/Kalecia24824)
